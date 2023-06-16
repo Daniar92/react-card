@@ -1,0 +1,27 @@
+.card {
+	height: 700px;
+	background: #0b3056;
+}
+.card__data {
+	font-size: 12px;
+	font-weight: 400;
+	color: #fff;
+}
+.card__title {
+	font-size: 18px;
+	font-weight: 400;
+	color: #fff;
+}
+.card__btn {
+	font-size: 14px;
+	font-weight: 700;
+	border: 0;
+	outline: 0;
+	background-color: transparent;
+	color: #fff;
+	line-height: 35px;
+}
+.card__btn:hover {
+	cursor: pointer;
+	border: 1px solid seashell;
+}
